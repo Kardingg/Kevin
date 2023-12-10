@@ -1,0 +1,26 @@
+00000_2023/12/08_22:38:06.634(+00.000)[3354] [PsACPL] ACPL logging initialized successfully.
+00001_2023/12/08_22:38:06.667(+00.033)[3354] [PsACPL] Fetching ACPLClient for the first time.
+00002_2023/12/08_22:38:12.372(+05.705)[3354] [PsACPL-RM] Op Update - operation: [acpl:init] status: [success] op guid: [007A431C-EE51-4664-BEEC-223238BEBA73] asset: []
+00003_2023/12/08_22:38:12.373(+00.000)[3354] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [11DBD81C-90EA-428A-B422-B308471A6D85] asset: []
+00004_2023/12/08_22:38:12.374(+00.001)[3354] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [07E1BF61-5929-422C-A8B2-015D3169DDB6] asset: []
+00005_2023/12/08_22:38:12.375(+00.002)[3354] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [6702BC01-32B7-4DDC-BF2F-78048D68E491] asset: []
+00006_2023/12/08_22:38:12.375(+00.000)[2198] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [11DBD81C-90EA-428A-B422-B308471A6D85] asset: []
+00007_2023/12/08_22:38:12.377(+00.001)[1ba0] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [07E1BF61-5929-422C-A8B2-015D3169DDB6] asset: []
+00008_2023/12/08_22:38:12.378(+00.001)[3384] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [6702BC01-32B7-4DDC-BF2F-78048D68E491] asset: []
+00009_2023/12/08_22:38:12.764(+00.385)[3354] [PsACPL-RM] Op Update - operation: [cs:get_core_sync_status] status: [start] op guid: [1BB4D81E-4C09-4D76-B5A4-8D43C8CCB489] asset: []
+00010_2023/12/08_22:38:12.764(+00.000)[3354] [PsACPL] Initializing IMS connection.
+00011_2023/12/08_22:38:12.764(+00.000)[3354] [PsACPL] Handling user logout.
+00012_2023/12/08_22:38:12.764(+00.000)[3354] [PsACPL-RM] [RH] Subscribing to notifications.
+00013_2023/12/08_22:38:12.764(+00.000)[3354] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [A925B1C5-8970-494B-BA6D-4C77526A1971] asset: []
+00014_2023/12/08_22:38:12.764(+00.000)[1e10] [PsACPL-RM] Op Update - operation: [cs:get_core_sync_status] status: [success] op guid: [1BB4D81E-4C09-4D76-B5A4-8D43C8CCB489] asset: []
+00015_2023/12/08_22:38:12.764(+00.000)[1e10] [PsACPL] Core Sync Check: NotReachable Required: 4.3.4.2 Running: 4.3.4.2 ACPL SDK Version: 1.22.4
+00016_2023/12/08_22:38:12.765(+00.000)[2fac] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [A925B1C5-8970-494B-BA6D-4C77526A1971] asset: []
+00017_2023/12/08_22:38:12.765(+00.000)[3354] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [0F969AB4-94F9-4C23-8BDE-843FDC7AA8B4] asset: []
+00018_2023/12/08_22:38:12.765(+00.000)[1ba0] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [0F969AB4-94F9-4C23-8BDE-843FDC7AA8B4] asset: []
+00019_2023/12/08_22:38:12.765(+00.000)[3354] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00020_2023/12/08_22:38:12.765(+00.000)[3354] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00021_2023/12/08_22:38:12.765(+00.000)[3354] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
+00022_2023/12/08_22:38:13.014(+00.249)[3354] [PsACPL] Handling user logout.
+00023_2023/12/08_22:38:13.014(+00.000)[3354] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00024_2023/12/08_22:38:13.014(+00.000)[3354] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00025_2023/12/08_22:38:13.014(+00.000)[3354] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
